@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Hao SU and I'm an undergraduate student of Shandong University(SDU).
 I have just started to use GitHub as my remote repository and I'm always looking forward to trying out some new cool stuff.
 
 - 🧐 I'm interested in linear algebra and statistics and their applications in machine learning.
